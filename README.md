@@ -40,7 +40,8 @@ Car path on a 2D corridor.
 - Without switching → delayed reaction → higher crash chance.  
 - With switching → car adapts, stays safe.
 
-![Trajectory Comparison](<img width="3000" height="1800" alt="car_trajectory" src="https://github.com/user-attachments/assets/48ad2b5b-5532-45c1-82ca-bdb11e6db034" />)
+![Trajectory Comparison]
+<img width="3000" height="1800" alt="car_trajectory" src="https://github.com/user-attachments/assets/48ad2b5b-5532-45c1-82ca-bdb11e6db034" />
 
 ---
 
@@ -48,12 +49,13 @@ Car path on a 2D corridor.
 Statistical safety evaluation.  
 Mode switching significantly reduces crashes. (Numbers depend on simulation seeds.)
 
-![Crash Probability](<img width="2400" height="1800" alt="monte_carlo_crash_probability_from_func" src="https://github.com/user-attachments/assets/6eb02c36-d2e3-4e21-a27c-d4c86c5afadb" />)
+![Crash Probability]
+<img width="2400" height="1800" alt="monte_carlo_crash_probability_from_func" src="https://github.com/user-attachments/assets/6eb02c36-d2e3-4e21-a27c-d4c86c5afadb" />
 
 ---
 
 ## 🛠️ How to Run
-1. Open the [Colab Notebook](physics_informed_mc_scheduler.ipynb).
+1. Open the Colab Notebook.
 2. Run all cells (runtime < 10 minutes for N=50, 10s per episode).
 3. Generated figures are saved in the `figures/` folder.
 
