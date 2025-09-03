@@ -29,7 +29,9 @@ It is designed to showcase my ability to **understand, implement, and extend cut
 EDF schedules the Driver, Health, and Dummy tasks.  
 With mode switching, the Driver period shrinks and Dummy1 is dropped → faster reaction time.
 
-![Gantt Chart Example](<img width="4800" height="1800" alt="gantt_schedule" src="https://github.com/user-attachments/assets/07b248fc-803a-4107-afe0-d57aa3771f5b" />)
+![Gantt Chart Example]
+
+<img width="4800" height="1800" alt="gantt_schedule" src="https://github.com/user-attachments/assets/07b248fc-803a-4107-afe0-d57aa3771f5b" />
 
 ---
 
