@@ -31,7 +31,7 @@ With mode switching, the Driver period shrinks and Dummy1 is dropped → faster 
 
 Gantt Chart Example:
 
-<img width="4800" height="1800" alt="gantt_schedule" src="https://github.com/user-attachments/assets/07b248fc-803a-4107-afe0-d57aa3771f5b" />
+<img width="700" height="600" alt="gantt_schedule" src="https://github.com/user-attachments/assets/07b248fc-803a-4107-afe0-d57aa3771f5b" />
 
 ---
 
@@ -41,7 +41,7 @@ Car path on a 2D corridor.
 - With switching → car adapts, stays safe.
 
 Trajectory Comparison:
-<img width="3000" height="1800" alt="car_trajectory" src="https://github.com/user-attachments/assets/48ad2b5b-5532-45c1-82ca-bdb11e6db034" />
+<img width="700" height="600" alt="car_trajectory" src="https://github.com/user-attachments/assets/48ad2b5b-5532-45c1-82ca-bdb11e6db034" />
 
 ---
 
@@ -50,7 +50,7 @@ Statistical safety evaluation.
 Mode switching significantly reduces crashes. (Numbers depend on simulation seeds.)
 
 Crash Probability:
-<img width="2400" height="1800" alt="monte_carlo_crash_probability_from_func" src="https://github.com/user-attachments/assets/6eb02c36-d2e3-4e21-a27c-d4c86c5afadb" />
+<img width="700" height="600" alt="monte_carlo_crash_probability_from_func" src="https://github.com/user-attachments/assets/6eb02c36-d2e3-4e21-a27c-d4c86c5afadb" />
 
 ---
 
