@@ -2,7 +2,7 @@
 Google Colab implementation of physics-informed mixed-criticality scheduling for F1Tenth cars, replicating and extending RTAS 2025. Includes EDF scheduler with mode switching, simplified 2D vehicle and LiDAR simulation, crash probability analysis, and visualizations.
 ------
 
-# Physics-Informed Mixed-Criticality Scheduling for F1Tenth Cars
+## Physics-Informed Mixed-Criticality Scheduling for Autonomous F1Tenth Cars Safety
 
 This repository contains a **Google Colab implementation** that replicates and extends the research paper:
 
@@ -10,6 +10,9 @@ This repository contains a **Google Colab implementation** that replicates and e
 
 The project demonstrates how **real-time scheduling** directly impacts the **safety of cyber-physical systems** like autonomous cars.  
 It is designed to showcase my ability to **understand, implement, and extend cutting-edge research** in **real-time systems and autonomous vehicles**.
+
+<img width="700" height="600" alt="gantt_schedule" src="https://github.com/user-attachments/assets/df8b4b78-d6b8-4b21-b855-01ceac617299" />
+
 
 ---
 
